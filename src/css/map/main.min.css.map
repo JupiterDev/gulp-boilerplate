@@ -1,0 +1,1 @@
+{"version":3,"sources":["sass/_part.sass","sass/style.sass"],"names":[],"mappings":"AAAA,OACE,eACA,uBAAwB,CAAG,KAE3B,UAAW,CCFb,KACE,qBAAsB,CAAG","file":"../main.min.css","sourcesContent":[".class {\n  font-size: 18px;\n  border-radius: 4px 0 0 0; }\n.one {\n  color: #ccc; }\n","@import \"part\";\n\nbody {\n  background-color: #fff; }\n"]}
